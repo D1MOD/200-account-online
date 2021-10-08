@@ -2663,3 +2663,207 @@ dimod140.on("message", message => {
     }
   }
 });
+
+dimod141.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod142.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod143.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod144.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod145.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod146.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod147.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod148.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod149.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod150.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod151.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod152.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});

@@ -249,6 +249,7 @@ dimod2.on("message", message => {
     }
   }
 });
+
 dimod3.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -265,6 +266,7 @@ dimod3.on("message", message => {
     }
   }
 });
+
 dimod4.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -281,6 +283,7 @@ dimod4.on("message", message => {
     }
   }
 });
+
 dimod5.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -331,6 +334,7 @@ dimod7.on("message", message => {
     }
   }
 });
+
 dimod8.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -364,6 +368,7 @@ dimod9.on("message", message => {
     }
   }
 });
+
 dimod10.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -380,6 +385,7 @@ dimod10.on("message", message => {
     }
   }
 });
+
 dimod11.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -396,6 +402,7 @@ dimod11.on("message", message => {
     }
   }
 });
+
 dimod12.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -412,6 +419,7 @@ dimod12.on("message", message => {
     }
   }
 });
+
 dimod13.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -428,6 +436,7 @@ dimod13.on("message", message => {
     }
   }
 });
+
 dimod14.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -461,6 +470,7 @@ dimod15.on("message", message => {
     }
   }
 });
+
 dimod16.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -477,6 +487,7 @@ dimod16.on("message", message => {
     }
   }
 });
+
 dimod17.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -493,6 +504,7 @@ dimod17.on("message", message => {
     }
   }
 });
+
 dimod18.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -526,6 +538,7 @@ dimod19.on("message", message => {
     }
   }
 });
+
 dimod20.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -542,6 +555,7 @@ dimod20.on("message", message => {
     }
   }
 });
+
 dimod21.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -558,6 +572,7 @@ dimod21.on("message", message => {
     }
   }
 });
+
 dimod22.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -574,6 +589,7 @@ dimod22.on("message", message => {
     }
   }
 });
+
 dimod23.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -590,6 +606,7 @@ dimod23.on("message", message => {
     }
   }
 });
+
 dimod24.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -623,6 +640,7 @@ dimod25.on("message", message => {
     }
   }
 });
+
 dimod26.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -639,6 +657,7 @@ dimod26.on("message", message => {
     }
   }
 });
+
 dimod27.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -655,6 +674,7 @@ dimod27.on("message", message => {
     }
   }
 });
+
 dimod28.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -688,6 +708,7 @@ dimod29.on("message", message => {
     }
   }
 });
+
 dimod30.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -704,6 +725,7 @@ dimod30.on("message", message => {
     }
   }
 });
+
 dimod31.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -720,6 +742,7 @@ dimod31.on("message", message => {
     }
   }
 });
+
 dimod32.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -753,6 +776,7 @@ dimod33.on("message", message => {
     }
   }
 });
+
 dimod34.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -769,6 +793,7 @@ dimod34.on("message", message => {
     }
   }
 });
+
 dimod35.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -785,6 +810,7 @@ dimod35.on("message", message => {
     }
   }
 });
+
 dimod36.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -801,6 +827,7 @@ dimod36.on("message", message => {
     }
   }
 });
+
 dimod37.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -817,6 +844,7 @@ dimod37.on("message", message => {
     }
   }
 });
+
 dimod38.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -833,6 +861,7 @@ dimod38.on("message", message => {
     }
   }
 });
+
 dimod39.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -866,6 +895,7 @@ dimod40.on("message", message => {
     }
   }
 });
+
 dimod41.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -882,6 +912,7 @@ dimod41.on("message", message => {
     }
   }
 });
+
 dimod42.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -898,6 +929,7 @@ dimod42.on("message", message => {
     }
   }
 });
+
 dimod43.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -931,6 +963,7 @@ dimod44.on("message", message => {
     }
   }
 });
+
 dimod45.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -947,6 +980,7 @@ dimod45.on("message", message => {
     }
   }
 });
+
 dimod46.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -963,6 +997,7 @@ dimod46.on("message", message => {
     }
   }
 });
+
 dimod47.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -979,6 +1014,7 @@ dimod47.on("message", message => {
     }
   }
 });
+
 dimod48.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1012,6 +1048,7 @@ dimod49.on("message", message => {
     }
   }
 });
+
 dimod50.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1028,6 +1065,7 @@ dimod50.on("message", message => {
     }
   }
 });
+
 dimod51.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1061,6 +1099,7 @@ dimod52.on("message", message => {
     }
   }
 });
+
 dimod53.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1077,6 +1116,7 @@ dimod53.on("message", message => {
     }
   }
 });
+
 dimod54.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1093,6 +1133,7 @@ dimod54.on("message", message => {
     }
   }
 });
+
 dimod55.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1109,6 +1150,7 @@ dimod55.on("message", message => {
     }
   }
 });
+
 dimod56.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1142,6 +1184,7 @@ dimod57.on("message", message => {
     }
   }
 });
+
 dimod58.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1175,6 +1218,7 @@ dimod59.on("message", message => {
     }
   }
 });
+
 dimod60.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1191,6 +1235,7 @@ dimod60.on("message", message => {
     }
   }
 });
+
 dimod61.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1224,6 +1269,7 @@ dimod62.on("message", message => {
     }
   }
 });
+
 dimod63.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1240,6 +1286,7 @@ dimod63.on("message", message => {
     }
   }
 });
+
 dimod64.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1256,6 +1303,7 @@ dimod64.on("message", message => {
     }
   }
 });
+
 dimod65.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -1272,6 +1320,7 @@ dimod65.on("message", message => {
     }
   }
 });
+
 dimod66.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
@@ -2225,6 +2274,380 @@ dimod121.on("message", message => {
 });
 
 dimod122.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod123.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod123.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod124.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod125.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod126.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod127.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod128.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod129.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod130.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod131.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod132.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod133.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod134.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+})
+
+dimod135.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod136.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod137.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod138.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod139.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod140.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod141.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod142.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === "wara") {
+    if (!(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**basha qashmar**");
+        })
+        .catch(console.log);
+    } else {
+      message.reply("**bro vc**");
+    }
+  }
+});
+
+dimod140.on("message", message => {
   if (!message.guild) return;
   if (message.content === "wara") {
     if (!(message.author.id)) return;

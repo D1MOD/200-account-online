@@ -6348,6 +6348,560 @@ dimod140.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
+dimod141.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod141.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod142.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod142.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod143.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod143.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod144.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod144.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod145.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod145.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod146.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod146.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod147.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod147.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod148.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod148.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod149.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod149.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod150.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod150.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod151.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod151.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+
+dimod152.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod152.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod153.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod153.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod154.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod154.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod155.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod155.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod156.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod156.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod157.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod157.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod158.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod158.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod159.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod159.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod160.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod160.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod161.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod161.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod162.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod162.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod163.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod163.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod164.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod164.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod165.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod165.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod166.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod166.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod167.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod167.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod168.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod168.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+dimod169.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `JUST ALLAH`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    dimod169.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+
+
 
 
 
